@@ -1,6 +1,10 @@
-| IN GAME | DESKTOP |
+<div align="center">
+
+| NO JOGO | DESKTOP |
 |:---:|:---:|
-| <img width="269" height="334" alt="in game" src="https://github.com/user-attachments/assets/384167ef-a316-45d9-9b80-c5a9fda6f2e2"> | <img width="266" height="319" alt="desktop" src="https://github.com/user-attachments/assets/936442c3-0611-4942-979e-e893c159546f"> |
+| <img width="269" height="334" alt="no jogo" src="https://github.com/user-attachments/assets/384167ef-a316-45d9-9b80-c5a9fda6f2e2"> | <img width="266" height="319" alt="desktop" src="https://github.com/user-attachments/assets/936442c3-0611-4942-979e-e893c159546f"> |
+
+</div>
 
 
 # LiveSplit Overlay for ReShade (DirectX 12 and Chroma Key)
