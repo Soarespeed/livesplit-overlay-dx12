@@ -78,4 +78,3 @@ com suporte a addons, ao lado do `ReShade.ini`. Abra o jogo, abra o menu do ReSh
 - Se o `cl` não for reconhecido, você não está no "x64 Native Tools Command
   Prompt". Abra esse prompt específico pelo menu Iniciar — um cmd comum não tem o
   compilador no PATH.
-
