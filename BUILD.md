@@ -77,3 +77,5 @@ add-on support, next to `ReShade.ini`. Launch the game, open the ReShade menu
 - If `cl` is not recognized, you are not in the "x64 Native Tools Command Prompt".
   Open that specific prompt from the Start menu — a normal cmd will not have the
   compiler on PATH.
+
+  
