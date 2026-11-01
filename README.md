@@ -80,3 +80,10 @@ To minimize it:
 This addon only **reads and displays** the LiveSplit window. It does not alter the
 timer, the splits, or any game or LiveSplit files. Even so, check the rules of the
 site where you submit your runs before using any overlay.
+
+## Credits
+
+- Original addon by **[Marco Leise (@mleise)](https://github.com/mleise/livesplit_overlay)** — all credit for the base work goes to him.
+- DirectX 12 support and chroma key by **[Soarespeed](https://github.com/Soarespeed)**.
+
+Licensed under the BSD 3-Clause License. See [LICENSE](LICENSE).
