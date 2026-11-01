@@ -10,6 +10,10 @@ Works on DirectX 12 games (such as Resident Evil 4 Remake), which the original
 addon did not support. Includes a chroma key to remove the background and show
 only the text.
 
+## Compatibility
+
+Works with DirectX 9, DirectX 11, DirectX 12, and Vulkan. DirectX 12 support was added on top of the original addon.
+
 ## Installation/Download
 
 **[Download the latest version (Releases)](https://github.com/Soarespeed/livesplit-overlay-dx12/releases/latest)** — extract the `.zip` and follow the installation steps below.
