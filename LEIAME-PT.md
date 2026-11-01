@@ -4,6 +4,10 @@ Sobrepõe a janela do LiveSplit dentro do jogo, em tela cheia, usando o ReShade.
 Funciona em jogos DirectX 12 (como Resident Evil 4 Remake), que o addon original
 não suportava. Inclui chroma key para remover o fundo e deixar só o texto.
 
+## Compatibilidade
+
+Funciona com DirectX 9, DirectX 11, DirectX 12 e Vulkan. O suporte ao DirectX 12 foi adicionado sobre o addon original.
+
 ## Instalação
 
 1. Tenha o ReShade instalado no jogo, com suporte a addons.
