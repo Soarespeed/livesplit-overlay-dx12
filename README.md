@@ -10,9 +10,7 @@ Works on DirectX 12 games (such as Resident Evil 4 Remake), which the original
 addon did not support. Includes a chroma key to remove the background and show
 only the text.
 
-## Installation
-
-## ⬇️ Download
+## Installation/Download
 
 **[Download the latest version (Releases)](https://github.com/Soarespeed/livesplit-overlay-dx12/releases/latest)** — extract the `.zip` and follow the installation steps below.
 
