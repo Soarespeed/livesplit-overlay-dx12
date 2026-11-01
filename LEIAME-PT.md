@@ -68,6 +68,7 @@ Para reduzir ao máximo:
 
 ## Observações para speedrun
 
+
 Este addon apenas **lê e exibe** a janela do LiveSplit. Ele não altera o timer, os
 splits, nem os arquivos do jogo ou do LiveSplit. Ainda assim, confira as regras do
 site onde você envia suas runs antes de usar qualquer overlay.
