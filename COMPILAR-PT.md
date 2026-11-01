@@ -74,6 +74,7 @@ com suporte a addons, ao lado do `ReShade.ini`. Abra o jogo, abra o menu do ReSh
 
 - Só o `livesplit_overlay.cpp` é o addon. Os outros arquivos de código que
   existiram no histórico (`_cmdlist`, `_text`) eram experimentos e não são a versão
+  
   publicada.
 - Se o `cl` não for reconhecido, você não está no "x64 Native Tools Command
   Prompt". Abra esse prompt específico pelo menu Iniciar — um cmd comum não tem o
