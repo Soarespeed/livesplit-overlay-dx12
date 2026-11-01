@@ -16,7 +16,7 @@ only the text.
 
 **[Download the latest version (Releases)](https://github.com/Soarespeed/livesplit-overlay-dx12/releases/latest)** — extract the `.zip` and follow the installation steps below.
 
-1. Have 1. Have [ReShade](https://reshade.me/#download) installed in the game, with addon support.
+1. Have [ReShade](https://reshade.me/#download) installed in the game, with addon support.
 2. Copy `livesplit_overlay.addon64` into the game folder, next to `ReShade.ini`
    (usually alongside the game executable).
 3. Launch the game and LiveSplit. Do not minimize LiveSplit: if it is minimized,
